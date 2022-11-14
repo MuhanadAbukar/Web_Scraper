@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scraper", "ConsoleApp10\Scraper.csproj", "{324960B0-17F6-4DDD-9FE2-65D6D92CA75D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leaderboard", "leaderboard\leaderboard.csproj", "{922B4DF0-31A6-4C1A-8BBA-4ADE6E792091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324960B0-17F6-4DDD-9FE2-65D6D92CA75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324960B0-17F6-4DDD-9FE2-65D6D92CA75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324960B0-17F6-4DDD-9FE2-65D6D92CA75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324960B0-17F6-4DDD-9FE2-65D6D92CA75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922B4DF0-31A6-4C1A-8BBA-4ADE6E792091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B4DF0-31A6-4C1A-8BBA-4ADE6E792091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B4DF0-31A6-4C1A-8BBA-4ADE6E792091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B4DF0-31A6-4C1A-8BBA-4ADE6E792091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA42E0C9-C96B-411F-8264-44FA3DFB4605}
+	EndGlobalSection
+EndGlobal
